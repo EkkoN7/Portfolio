@@ -22,7 +22,7 @@ Key features and design choices:
 * **Randomness Algorithm:** The core of PyPaGen uses a unique, random mathematical solution to create password patterns, aiming for genuine randomness in each output. If you're not satisfied with a generated password, simply try again!
 * **Title Design:** The ASCII art for the title was created using [this generator](https://budavariam.github.io/asciiart-text/).
 
-![Screenshot](Screenshot.png)
+![Screenshot](PyPaGen.png)
 
 This project was developed as a first step in exploring secure coding practices and demonstrates foundational knowledge in security-aware software design.
 
