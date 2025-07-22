@@ -14,7 +14,8 @@
 
 ## Games
 
--
+  * **[Hangman](https://github.com/EkkoN7/Portfolio/blob/main/Hangman.md)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
+
 
 -----
 
