@@ -40,7 +40,9 @@ Key features and design choices:
   * **Title Design:** The ASCII art for the title was created using [this generator](https://budavariam.github.io/asciiart-text/).
 
 Encryption:
+
 ![Screenshot](Screenshots/Fluxcode_e.png)
 
 Decryption: 
+
 ![Screenshot](Screenshots/Fluxcode_d.png)
