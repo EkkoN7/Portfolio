@@ -4,7 +4,7 @@
 
   * **[PyPaGen](https://github.com/EkkoN7/Portfolio/blob/main/PyPaGen.md)**: PyPaGen is a Python-based password generator designed for creating strong, random, and secure passwords.
   * **[FluxCode](https://github.com/EkkoN7/Portfolio/blob/main/FluxCode.md)**: FluxCode is a Python-based encryption tool that uses seeded, dynamic alphabets.
-  * **[XaltOR]**: 
+  * **XaltOR (In Progress)**: XaltOR provides robust XOR encryption for text files, utilizing unique salting for enhanced security.
 
 -----
 
