@@ -10,15 +10,14 @@
 
 ## AI
 
--
+* **PyAI(In Progress)**: PyAI is a RAG AI system leveraging Gemini for powerful language understanding and Chroma DB for efficient knowledge retrieval.
 
 -----
 
 ## Games
 
   * **[Hangman](https://github.com/EkkoN7/Portfolio/blob/main/Hangman.md)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
-
-
+* **Astroid Shooter(In Progress)**: Astroid Shooter is a simple Space Shooter game created with Pygame.
 -----
 
 ## Other kinds of Projects
