@@ -10,15 +10,15 @@
 
 ## AI
 
-* **PyAI(In Progress)**: PyAI is a RAG AI system leveraging Gemini for powerful language understanding and Chroma DB for efficient knowledge retrieval.
-* **HiveHub from HiveNex(In Progress)**: HiveHub is the ultimate companion for farmers and hobby gardeners, offering weather warnings, personalized plant guidance, and more, all powered by Gemini on Android.
+* **PyAI (In Progress)**: PyAI is a RAG AI system leveraging Gemini for powerful language understanding and Chroma DB for efficient knowledge retrieval.
+* **HiveHub from HiveNex (In Progress)**: HiveHub is the ultimate companion for farmers and hobby gardeners, offering weather warnings, personalized plant guidance, and more, all powered by Gemini on Android.
 
 -----
 
 ## Games
 
   * **[Hangman](https://github.com/EkkoN7/Portfolio/blob/main/Hangman.md)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
-* **Astroid Shooter(In Progress)**: Astroid Shooter is a simple Space Shooter game created with Pygame.
+* **Astroid Shooter (In Progress)**: Astroid Shooter is a simple Space Shooter game created with Pygame.
 -----
 
 ## Other kinds of Projects
