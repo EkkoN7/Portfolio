@@ -11,6 +11,7 @@
 ## AI
 
 * **PyAI(In Progress)**: PyAI is a RAG AI system leveraging Gemini for powerful language understanding and Chroma DB for efficient knowledge retrieval.
+* **HiveHub from HiveNex(In Progress)**: HiveHub is the ultimate companion for farmers and hobby gardeners, offering weather warnings, personalized plant guidance, and more, all powered by Gemini on Android.
 
 -----
 
