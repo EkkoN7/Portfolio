@@ -68,7 +68,7 @@ def count_cards(users_list):
 
 ## Resources Used
 
-  * **Money Art:** The various stages of the Hangman ASCII art are sourced from [ascii.co.uk](https://ascii.co.uk/art/money).
+  * **Money Art:** The various stages of the Hangman ASCII art are sourced from Julian Visch at [ascii.co.uk](https://ascii.co.uk/art/money).
   * **Title Design:** The ASCII art for the game's title was created using [this generator](https://budavariam.github.io/asciiart-text/).
 
 -----
