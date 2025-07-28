@@ -1,3 +1,5 @@
+While my primary focus is cybersecurity, I also enjoy exploring broader areas of software development, including AI and game design, to continually expand my programming and problem-solving skills.
+
 # Table of Contents:
 
 ## Security Tools
