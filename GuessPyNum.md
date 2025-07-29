@@ -6,8 +6,6 @@
   \____|\__,_|\___||___/___/ |_|    \__, | |_| \_|\__,_|_| |_| |_|
                                     |___/                         
 ```
-Here's a corrected and improved version of your README documentation, focusing on clarity, conciseness, and professionalism, while maintaining your original points.
-
 -----
 
 ## About the Game
