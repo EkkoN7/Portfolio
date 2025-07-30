@@ -1,4 +1,4 @@
-While my primary focus is cybersecurity, I also enjoy exploring broader areas of software development, including AI and game design, to continually expand my programming and problem-solving skills.
+While my primary focus is cybersecurity and automation, I also enjoy exploring broader areas of software development, including AI and game design, to continually expand my programming and problem-solving skills.
 
 # Table of Contents:
 
@@ -7,6 +7,12 @@ While my primary focus is cybersecurity, I also enjoy exploring broader areas of
   * **[PyPaGen](https://github.com/EkkoN7/Portfolio/blob/main/PyPaGen.md)**: PyPaGen is a Python-based password generator designed for creating strong, random, and secure passwords.
   * **[FluxCode](https://github.com/EkkoN7/Portfolio/blob/main/FluxCode.md)**: FluxCode is a Python-based encryption tool that uses seeded, dynamic alphabets.
   * **XaltOR (In Progress)**: XaltOR provides robust XOR encryption for text files, utilizing unique salting for enhanced security.
+
+-----
+
+## Automation 
+
+* 
 
 -----
 
