@@ -7,7 +7,7 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 
   * **[PyPaGen](https://github.com/EkkoN7/PyPaGen)**: PyPaGen is a Python-based password generator designed for creating strong, random, and secure passwords.
   * **[FluxCode](https://github.com/EkkoN7/FluxCode)**: FluxCode is a Python-based encryption tool that uses seeded, dynamic alphabets.
-  * **[XaltOR](https://github.com/EkkoN7/XaltOR)In Progress**: XaltOR provides robust XOR encryption for text files, utilizing unique salting for enhanced security.
+  * **[XaltOR](https://github.com/EkkoN7/XaltOR) In Progress**: XaltOR provides robust XOR encryption for text files, utilizing unique salting for enhanced security.
 
 -----
 
@@ -28,7 +28,7 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
   * **[Hangman](https://github.com/EkkoN7/Hangman)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
   *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: This is a simple console-based Black Jack game developed using Python.
   *  **[GuessPyNum](https://github.com/EkkoN7/GuessPyNum)**: GuessPyNum is a classic number guessing game implemented in Python. 
-* **[Astroid Shooter](https://github.com/EkkoN7/AstroidShooter)In Progress**: Astroid Shooter is a simple Space Shooter game created with Pygame.
+* **[Astroid Shooter](https://github.com/EkkoN7/Asteroid_Shooter) In Progress**: Astroid Shooter is a simple Space Shooter game created with Pygame.
 -----
 
 ## Other kinds of Projects
