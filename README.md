@@ -34,3 +34,4 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 ## Other kinds of Projects
 
  * **[PyStcWebScraper](https://github.com/EkkoN7/PyStcWebScraper) In Progress**: A simple Python Web Scraper for static websites.
+ * **[PyTube](https://github.com/EkkoN7/PyTube) In Progress**: PyTube is a simple Python tool that tracks your favorite YouTube channels, providing updates on new videos and their titles.
