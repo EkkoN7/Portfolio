@@ -7,7 +7,7 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 
   * **[PyPaGen](https://github.com/EkkoN7/PyPaGen)**: PyPaGen is a Python-based password generator designed for creating strong, random, and secure passwords.
   * **[FluxCode](https://github.com/EkkoN7/FluxCode)**: FluxCode is a Python-based encryption tool that uses seeded, dynamic alphabets.
-  * **[XaltOR](https://github.com/EkkoN7/XaltOR) In Progress**: XaltOR provides robust XOR encryption for text files, utilizing unique salting for enhanced security.
+  * **[PyXor](https://github.com/EkkoN7/PyXor)**: A simple Python tool that uses the XOR cipher to encrypt and decrypt messages and text files.
 
 -----
 
@@ -33,5 +33,4 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 
 ## Other kinds of Projects
 
- * **[PyStcWebScraper](https://github.com/EkkoN7/PyStcWebScraper) In Progress**: A simple Python Web Scraper for static websites.
- * **[PyTube](https://github.com/EkkoN7/PyTube) In Progress**: PyTube is a simple Python tool that tracks your favorite YouTube channels, providing updates on new videos and their titles.
+*
