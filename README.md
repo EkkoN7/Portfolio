@@ -28,9 +28,7 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
   * **[Hangman](https://github.com/EkkoN7/Hangman)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
   *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: This is a simple console-based Black Jack game developed using Python.
   *  **[GuessPyNum](https://github.com/EkkoN7/GuessPyNum)**: GuessPyNum is a classic number guessing game implemented in Python.
-  *  **[CthulhuMUD](https://github.com/EkkoN7/CthulhuMUD) In Progress**: A strict, story-driven Text-Adventure (MUD) built in Python to practice Object-Oriented Programming (OOP) principles. This project specifically focuses on class design, inheritance, and composition to structure a linear narrative based on H.P. Lovecraft's The Call of Cthulhu, featuring core mechanics like Sanity management.
-
-
+  *  **[beFormed](https://github.com/EkkoN7/beFormed) In Progress**: A text-based adventure in the Shadow-Gap. Shape your being and overcome or surrender to the encroaching darkness.
     
 -----
 
