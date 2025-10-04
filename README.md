@@ -19,20 +19,19 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 
 ## AI
 
-* 
+* Upcoming
 
 -----
 
 ## Game Design & Creative Output
 These projects showcase my interest in software development for creative purposes, focusing on design, storytelling, and user experience.
 
-  * **[Hangman](https://github.com/EkkoN7/Hangman)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
-  *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: This is a simple console-based Black Jack game developed using Python.
-  *  **[GuessPyNum](https://github.com/EkkoN7/GuessPyNum)**: GuessPyNum is a classic number guessing game implemented in Python.
-  *  **[beFormed](https://github.com/EkkoN7/beFormed) In Progress**: A text-based adventure in the Shadow-Gap. Shape your being and overcome or surrender to the encroaching darkness.
-  *  **[beVicious](https://github.com/EkkoN7/beVicious) In Progress**: A brutal text-based roguelite set in the universe of beFormed. As a determined defender, fight back against the half-formed shadows that seek to take shape.
+#### **Featured Creative Projects**
+  *  **[beFormed](https://github.com/EkkoN7/beFormed) In Progress**: A text-based adventure in the Shadow-Gap...
+  *  **[beVicious](https://github.com/EkkoN7/beVicious) In Progress**: A brutal text-based roguelite...
+
+#### **Foundational Game Projects**
+  * **[Hangman](https://github.com/EkkoN7/Hangman)**: A simple console-based Hangman game developed using Python.
+  *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: A simple console-based Black Jack game developed using Python.
+  *  **[GuessPyNum](https://github.com/EkkoN7/GuessPyNum)**: A classic number guessing game implemented in Python.
 -----
-
-## Other kinds of Projects
-
-*
