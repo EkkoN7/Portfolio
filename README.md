@@ -1,6 +1,6 @@
 My projects are all released under the MIT License unless a different license is specified in the project's README.md file.
 
-While my primary focus is cybersecurity and automation, I also enjoy exploring broader areas of software development, including AI and game design, to continually expand my programming and problem-solving skills.
+While my primary focus is cybersecurity and automation, I also enjoy exploring broader areas of software development, including AI and game design. The game projects below represent my creative output, allowing me to continually expand my programming and problem-solving skills.
 # Table of Contents:
 
 ## Security Tools
@@ -23,7 +23,8 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
 
 -----
 
-## Games
+## Game Design & Creative Output
+These projects showcase my interest in software development for creative purposes, focusing on design, storytelling, and user experience.
 
   * **[Hangman](https://github.com/EkkoN7/Hangman)**: This is a simple console-based Hangman game developed using Python. The game challenges players to guess a secret word letter by letter before running out of attempts.
   *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: This is a simple console-based Black Jack game developed using Python.
