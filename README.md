@@ -29,7 +29,7 @@ While my primary focus is cybersecurity and automation, I also enjoy exploring b
   *  **[BlackJack](https://github.com/EkkoN7/Blackjack)**: This is a simple console-based Black Jack game developed using Python.
   *  **[GuessPyNum](https://github.com/EkkoN7/GuessPyNum)**: GuessPyNum is a classic number guessing game implemented in Python.
   *  **[beFormed](https://github.com/EkkoN7/beFormed) In Progress**: A text-based adventure in the Shadow-Gap. Shape your being and overcome or surrender to the encroaching darkness.
-    
+  *  **[beVicious](https://github.com/EkkoN7/beVicious) In Progress**: A brutal text-based roguelite set in the universe of beFormed. As a determined defender, fight back against the half-formed shadows that seek to take shape.
 -----
 
 ## Other kinds of Projects
