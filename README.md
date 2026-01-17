@@ -11,8 +11,6 @@ My projects are all released under the MIT License unless a different license is
 These projects showcase my interest in software development for creative purposes, focusing on design, storytelling, and user experience.
 
 #### **Featured Creative Projects**
-* **[beFormed](https://github.com/EkkoN7/beFormed) In Progress**: A text-based adventure in the Shadow-Gap. Shape your being and overcome or surrender to the encroaching darkness.
-* **[beVicious](https://github.com/EkkoN7/beVicious) In Progress**: A brutal text-based roguelite set in the universe of beFormed. As a determined defender, fight back against the half-formed shadows that seek to take shape.
 * **[AsteroidShooter](https://github.com/EkkoN7/AsteroidShooter) In Progress**: Asteroid game built with Python, following a [Udemy course](https://www.udemy.com/course/learn-python-by-making-games).
 
 #### **Foundational Game Projects**
